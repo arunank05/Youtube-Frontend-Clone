@@ -50,4 +50,3 @@ This project is based on hands-on implementation of the following topics:
 - Writing clean and reusable CSS
 - Translating a real product UI into code
 
- for educational purposes only.
